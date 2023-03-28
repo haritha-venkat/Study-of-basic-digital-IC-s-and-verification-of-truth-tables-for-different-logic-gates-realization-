@@ -56,9 +56,15 @@ xnor(y8,a,b);
 endmodule
 ```
 
-Output:
+# Output:
 
-RTLRTL
+# RTL:
+![image](https://user-images.githubusercontent.com/121285701/228250255-cd905014-a495-42a8-b61b-57b8ecb3db0d.png)
+# Timing Diagram:
+![image](https://user-images.githubusercontent.com/121285701/228250385-b6591238-c999-4052-90a7-762e7fef4618.png)
+# Truth Table:
+![image](https://user-images.githubusercontent.com/121285701/228250526-cbb335bf-8acc-488c-af43-de1c923a97ea.png)
+
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
